@@ -1,10 +1,10 @@
 {
   "background_color": "#ffffff",
-  "description": "This is My First Udemy Web application using Expo React Native.",
+  "description": "This is my Udemy Course Application. that is promote Udemy Courses. The App Name is UCourse.",
   "display": "standalone",
   "lang": "en",
-  "name": "udemy-web-app",
-  "short_name": "udemy-web-app",
+  "name": "udemy-course-app",
+  "short_name": "udemy-course-app",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
